@@ -1,0 +1,11 @@
+.tracklist {
+    padding: 10px;
+    background-color: #eeddf8;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.tracklist:hover {
+    background-color: #efd8fc;
+    border-radius: 35px;
+}

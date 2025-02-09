@@ -1,0 +1,36 @@
+.playlist {
+    background-color: rgba(157, 0, 255, 0.75);
+    padding: 20px;
+    width: 40%;
+    min-width: 300px;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.playlist h2 {
+    color: white;
+}
+
+.playlist input {
+    display: block;
+    margin: 0 auto;
+    border-radius: 30px;
+    width: 70%;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.playlist button {
+    background-color: #531db9;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 20px 10px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
